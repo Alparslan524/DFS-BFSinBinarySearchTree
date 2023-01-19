@@ -42,6 +42,6 @@ Aynı durum 3004 verisinde de geçerli. 3004 verisi 2. Ağaçta başlarda, 1. A�
 
 
 # Alparslan Aydoğan
-- [GitHub](https://github.com/Alparslan524?tab=repositories)
+- [GitHub](https://github.com/Alparslan524)
 - [Linkedin](https://www.linkedin.com/in/alparslan-aydoğan-6038771bb/)
 ***
